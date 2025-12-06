@@ -4,4 +4,18 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "altair>=6.0.0",
+    "entrypoints>=0.4",
+    "ipython>=9.8.0",
+    "jsonschema>=4.25.1",
+    "jupyterlab>=4.5.0",
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.5",
+    "pandas>=2.3.3",
+    "polars>=1.35.2",
+    "six>=1.17.0",
+    "toolz>=1.1.0",
+    "typing>=3.10.0.0",
+    "vega-datasets>=0.9.0",
+]
